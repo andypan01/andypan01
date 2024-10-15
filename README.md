@@ -1,4 +1,11 @@
-## andypan01
+
+# andypan01's Resume
+
+##Education
+
+** Northeastern University **, Khoury College of Computer Sciences Candidate: Bachelor of Science in Computer Science and Mathematics Boston, MA • Oct 2024 - May 2029
+
+
 
 <!--
 **andypan01/andypan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
